@@ -1,6 +1,7 @@
 {
   "books": [
- {
+  {
+    "id": "659f5c63b35dcef775506cce",
     "author": "Chinua Achebe",
     "country": "Nigeria",
     "imageLink": "images/things-fall-apart.jpg",
@@ -11,6 +12,7 @@
     "year": 1958
   },
   {
+    "id": "659f5c63b35dcef775506ccf",
     "author": "Hans Christian Andersen",
     "country": "Denmark",
     "imageLink": "images/fairy-tales.jpg",
@@ -21,6 +23,7 @@
     "year": 1836
   },
   {
+    "id": "659f5c63b35dcef775506cd0",
     "author": "Dante Alighieri",
     "country": "Italy",
     "imageLink": "images/the-divine-comedy.jpg",
@@ -31,6 +34,7 @@
     "year": 1315
   },
   {
+    "id": "659f5c63b35dcef775506cd1",
     "author": "Unknown",
     "country": "Sumer and Akkadian Empire",
     "imageLink": "images/the-epic-of-gilgamesh.jpg",
@@ -41,6 +45,7 @@
     "year": -1700
   },
   {
+    "id": "659f5c63b35dcef775506cd2",
     "author": "Unknown",
     "country": "Achaemenid Empire",
     "imageLink": "images/the-book-of-job.jpg",
@@ -51,6 +56,7 @@
     "year": -600
   },
   {
+    "id": "659f5c63b35dcef775506cd3",
     "author": "Unknown",
     "country": "India/Iran/Iraq/Egypt/Tajikistan",
     "imageLink": "images/one-thousand-and-one-nights.jpg",
@@ -61,16 +67,18 @@
     "year": 1200
   },
   {
+    "id": "659f5c63b35dcef775506cd4",
     "author": "Unknown",
     "country": "Iceland",
     "imageLink": "images/njals-saga.jpg",
     "language": "Old Norse",
     "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
     "pages": 384,
-    "title": "Nj\u00e1l's Saga",
+    "title": "Njál's Saga",
     "year": 1350
   },
   {
+    "id": "659f5c63b35dcef775506cd5",
     "author": "Jane Austen",
     "country": "United Kingdom",
     "imageLink": "images/pride-and-prejudice.jpg",
@@ -81,16 +89,18 @@
     "year": 1813
   },
   {
-    "author": "Honor\u00e9 de Balzac",
+    "id": "659f5c63b35dcef775506cd6",
+    "author": "Honoré de Balzac",
     "country": "France",
     "imageLink": "images/le-pere-goriot.jpg",
     "language": "French",
     "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
     "pages": 443,
-    "title": "Le P\u00e8re Goriot",
+    "title": "Le Père Goriot",
     "year": 1835
   },
   {
+    "id": "659f5c63b35dcef775506cd7",
     "author": "Samuel Beckett",
     "country": "Republic of Ireland",
     "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
@@ -101,6 +111,7 @@
     "year": 1952
   },
   {
+    "id": "659f5c63b35dcef775506cd8",
     "author": "Giovanni Boccaccio",
     "country": "Italy",
     "imageLink": "images/the-decameron.jpg",
@@ -111,6 +122,7 @@
     "year": 1351
   },
   {
+    "id": "659f5c63b35dcef775506cd9",
     "author": "Jorge Luis Borges",
     "country": "Argentina",
     "imageLink": "images/ficciones.jpg",
@@ -121,7 +133,8 @@
     "year": 1965
   },
   {
-    "author": "Emily Bront\u00eb",
+    "id": "659f5c63b35dcef775506cda",
+    "author": "Emily Brontë",
     "country": "United Kingdom",
     "imageLink": "images/wuthering-heights.jpg",
     "language": "English",
@@ -131,6 +144,7 @@
     "year": 1847
   },
   {
+    "id": "659f5c63b35dcef775506cdb",
     "author": "Albert Camus",
     "country": "Algeria, French Empire",
     "imageLink": "images/l-etranger.jpg",
@@ -141,6 +155,7 @@
     "year": 1942
   },
   {
+    "id": "659f5c63b35dcef775506cdc",
     "author": "Paul Celan",
     "country": "Romania, France",
     "imageLink": "images/poems-paul-celan.jpg",
@@ -151,7 +166,8 @@
     "year": 1952
   },
   {
-    "author": "Louis-Ferdinand C\u00e9line",
+    "id": "659f5c63b35dcef775506cdd",
+    "author": "Louis-Ferdinand Céline",
     "country": "France",
     "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
     "language": "French",
@@ -161,6 +177,7 @@
     "year": 1932
   },
   {
+    "id": "659f5c63b35dcef775506cde",
     "author": "Miguel de Cervantes",
     "country": "Spain",
     "imageLink": "images/don-quijote-de-la-mancha.jpg",
@@ -171,6 +188,7 @@
     "year": 1610
   },
   {
+    "id": "659f5c63b35dcef775506cdf",
     "author": "Geoffrey Chaucer",
     "country": "England",
     "imageLink": "images/the-canterbury-tales.jpg",
@@ -181,6 +199,7 @@
     "year": 1450
   },
   {
+    "id": "659f5c63b35dcef775506ce0",
     "author": "Anton Chekhov",
     "country": "Russia",
     "imageLink": "images/stories-of-anton-chekhov.jpg",
@@ -191,6 +210,7 @@
     "year": 1886
   },
   {
+    "id": "659f5c63b35dcef775506ce1",
     "author": "Joseph Conrad",
     "country": "United Kingdom",
     "imageLink": "images/nostromo.jpg",
@@ -201,6 +221,7 @@
     "year": 1904
   },
   {
+    "id": "659f5c63b35dcef775506ce2",
     "author": "Charles Dickens",
     "country": "United Kingdom",
     "imageLink": "images/great-expectations.jpg",
@@ -211,6 +232,7 @@
     "year": 1861
   },
   {
+    "id": "659f5c63b35dcef775506ce3",
     "author": "Denis Diderot",
     "country": "France",
     "imageLink": "images/jacques-the-fatalist.jpg",
@@ -221,7 +243,8 @@
     "year": 1796
   },
   {
-    "author": "Alfred D\u00f6blin",
+    "id": "659f5c63b35dcef775506ce4",
+    "author": "Alfred Döblin",
     "country": "Germany",
     "imageLink": "images/berlin-alexanderplatz.jpg",
     "language": "German",
@@ -231,6 +254,7 @@
     "year": 1929
   },
   {
+    "id": "659f5c63b35dcef775506ce5",
     "author": "Fyodor Dostoevsky",
     "country": "Russia",
     "imageLink": "images/crime-and-punishment.jpg",
@@ -241,6 +265,7 @@
     "year": 1866
   },
   {
+    "id": "659f5c63b35dcef775506ce6",
     "author": "Fyodor Dostoevsky",
     "country": "Russia",
     "imageLink": "images/the-idiot.jpg",
@@ -249,56 +274,6 @@
     "pages": 656,
     "title": "The Idiot",
     "year": 1869
-  },
-  {
-    "author": "Fyodor Dostoevsky",
-    "country": "Russia",
-    "imageLink": "images/the-possessed.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
-    "pages": 768,
-    "title": "The Possessed",
-    "year": 1872
-  },
-  {
-    "author": "Fyodor Dostoevsky",
-    "country": "Russia",
-    "imageLink": "images/the-brothers-karamazov.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
-    "pages": 824,
-    "title": "The Brothers Karamazov",
-    "year": 1880
-  },
-  {
-    "author": "George Eliot",
-    "country": "United Kingdom",
-    "imageLink": "images/middlemarch.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
-    "pages": 800,
-    "title": "Middlemarch",
-    "year": 1871
-  },
-  {
-    "author": "Ralph Ellison",
-    "country": "United States",
-    "imageLink": "images/invisible-man.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
-    "pages": 581,
-    "title": "Invisible Man",
-    "year": 1952
-  },
-  {
-    "author": "Euripides",
-    "country": "Greece",
-    "imageLink": "images/medea.jpg",
-    "language": "Greek",
-    "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
-    "pages": 104,
-    "title": "Medea",
-    "year": -431
   }
 ]
 }
